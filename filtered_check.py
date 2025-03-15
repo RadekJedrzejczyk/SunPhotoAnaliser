@@ -15,7 +15,6 @@ MAX_SUNSPOT= 0.5
 """4096 quality settings """
 FONTSCALE4096 = 6
 THICKNESS4096 = 10
-EDGEKERNEL4096 = np.ones((3, 3), np.uint8) 
 CONTOURSSIZE4096 =5 
 
 """1024 quality settings """
